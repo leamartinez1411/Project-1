@@ -49,6 +49,14 @@ The kappa of the logistic regression model is: 0.86
 The accuracy of the logistic_regression model is: 0.89 
 The kappa of the logistic regression model is: 0.79 
 
+### Sixth Model (Binning)
+The accuracy and Kappa is: 0.89
+The kappa of the logistic regression model is: 0.78
+
+### Seventh Model (Transfromation and Removing Outliers)
+The accuracy and Kappa is: 0.91
+The kappa of the logistic regression model is: 0.82
+
 # Conclusion
 The Model with Random Forest gave the best results so it will be used in the business case to predict insight into why some bank customers accept credit card offers.
 
